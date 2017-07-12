@@ -1,5 +1,6 @@
 # Jaei
-## (2017 FPS Game)
+
+(2017 FPS Game)
 
 v0.2
 
